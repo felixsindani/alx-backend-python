@@ -1,4 +1,6 @@
 0x01. Python - Async
+
+
 ====================
 # Setting Up Your Environment
 async IO denote the language-agnostic design of asynchronous IO, while asyncio refers to the Python package.
@@ -14,8 +16,14 @@ $ pip install --upgrade pip aiohttp aiofiles  # Optional: aiodns
 
 coroutine is a function that can suspend its execution before reaching return, and it can indirectly pass control to another coroutine for some time.
 
-Resources
+#### Resources
 ---------
+
+https://realpython.com/async-io-python/#the-asyncawait-syntax-and-native-coroutines
+
+https://docs.python.org/3/library/asyncio.html
+
+https://docs.python.org/3/library/random.html#random.uniform
 
 **Read or watch**:
 
